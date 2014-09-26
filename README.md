@@ -5,7 +5,7 @@ Repository for collaboration on the project for the Javascript Allonge group 201
 
 ## The aim of the group
 
-To gain a better understanding for two things - javascript and functional programming.
+To gain a better understanding for two things - javascript and functional programming. I don't really like to call this a 'class' or a 'course', although it'll be structured somewhat like that. The main reason is that I'm in it for my own education, too. I want to learn from you guys, as much as I want to share what I have.
 
 Javascript has a reputation for being all [kinds of things](https://twitter.com/horse_js). It's a [badly written, inconsistent language](http://programmers.stackexchange.com/a/138188) (watch the first video. It's the best), but also universally supported as the language of the web. That's great, since that gives you a universal runtime for your programs, and you only have to worry a little bit about cross-browser compatibility. Javascript is super valuable to know well. If you can write good [vanilla js](http://vanilla-js.com/), you can write lightweight and performant websites, prototype and code quickly, write your own tools, dig into other people's websites regardless of what library/framework they use, and a whole bunch of other things. Useful.
 
@@ -53,3 +53,15 @@ If you're on windows:
 - Install Node ([Windows/mac](http://nodejs.org/download/), [linux](http://ask.xmodulo.com/install-node-js-linux.html))
 - Install a text editor if you haven't. I use [sublime text 3](http://www.sublimetext.com/3)
 - `cd` into your js-allonge directory. Test everything out by running `node test.js`. If "Hello World!" was printed to your console, you're in business!
+
+
+### The course
+
+Over the next 7 weeks, we'll be building a javascript library or application. What we build is something we'll decide at the first meeting. Also, during the first 6 weeks, we'll be working through [Javascript Allonge](https://leanpub.com/javascript-allonge/read). We'll read a section, do some exercises, and then meet to talk about it. I'll probably come up with some [Project Euler](https://projecteuler.net/) problems to center our discussion of core concepts around. Here's the reading schedule:
+
+For October 9 - [Preface](https://leanpub.com/javascript-allonge/read#leanpub-auto-a-pull-of-the-lever-prefaces) and [Introduction](https://leanpub.com/javascript-allonge/read#leanpub-auto-prelude-values-and-expressions)
+For October 16 - [Chapter 1](https://leanpub.com/javascript-allonge/read#functions) and [Chapter 3](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-basic-functions)
+For October 23 -  [Chapter 4](https://leanpub.com/javascript-allonge/read#references) and [Chapter 5](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-rebinding-and-references)
+For October 30 -  [Chapter 6](https://leanpub.com/javascript-allonge/read#mutable) and [Chapter 7](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-objects-mutations-and-state)
+For October 6 - [Chapter 8](https://leanpub.com/javascript-allonge/read#methods) and [Chapter 10](https://leanpub.com/javascript-allonge/read#processing)
+For November 13th - [Chapter 11](https://leanpub.com/javascript-allonge/read#redecorating) and [Chapter 12](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-for-new-ideas)
