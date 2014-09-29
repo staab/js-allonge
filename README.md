@@ -67,4 +67,4 @@ Over the next 7 weeks, we'll be building a javascript library or application. Wh
 - For November 13th - [Chapter 11](https://leanpub.com/javascript-allonge/read#redecorating) and [Chapter 12](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-for-new-ideas)
 - For November 20th, TBD
 
-We'll meet at 7-8:30 PM every Thursday night. We'll be meeting at the Moscowork space on 3rd Street. Admission to the group is free, but you won't be admitted if you don't sign up before the second meeting. Check out the official page [here](https://moscowork.com/javascript-allonge/)
+We'll meet at 7-8:30 PM every Thursday night October 9th - November 20th. We'll be meeting at the Moscowork space on 3rd Street. Admission to the group is free, but you won't be admitted if you don't sign up before the second meeting. Check out the official page [here](https://moscowork.com/javascript-allonge/)
