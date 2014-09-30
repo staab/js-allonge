@@ -66,7 +66,7 @@ We'll meet at 7-8:30 PM every Thursday night October 9th - November 20th. We'll 
 
 Here's everyone who has confirmed with me that they'll be there. If you don't see your name here, and you think it should be, drop me an email!
 
-- Jon Feusi
+- John Feusi
 - Chris Walker
 - Austin Storm
 - Jon Burnett
