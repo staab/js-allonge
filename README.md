@@ -20,16 +20,14 @@ There are a couple things you'll need to do to get going with the project.
 
 - Set up a new ssh key
 - Get the source code
-- Connect to the server
 - Set up your development environment
 
 If that sounds hard, it's not. Here's a walkthrough:
 
 #### Set up a new ssh key
 
-- We'll be using ssh to interact with git repositories as well as the server. You'll need a public/private key pair to do that.
+- We'll be using ssh to interact with git repositories, and you'll need a public/private key pair to do that.
 - Follow the directions [here](https://help.github.com/articles/generating-ssh-keys). If they don't work for windows, follow the directions just below.
-- Email me your new public key - I'll need it to give you access to the server.
 
 If you're on windows:
 - you'll have to install [putty](http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe) and [puttygen](http://the.earth.li/~sgtatham/putty/latest/x86/puttygen.exe)
@@ -40,24 +38,19 @@ If you're on windows:
 - [Sign up](https://github.com/) for a GitHub account if you don't have one.
 - [Install git](http://git-scm.com/book/en/Getting-Started-Installing-Git) on your computer
 - [Set up you ssh key with github](https://help.github.com/articles/generating-ssh-keys#step-3-add-your-ssh-key-to-github) if you haven't already
-- [Clone the repository](http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository) by opening your terminal (ctrl+t or run+cmd on windows), navigate to the directory where you want to store the code, and running `git clone git@github.com:staab/js-allonge.git`.
+- [Clone the repository](http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository) by opening your terminal (ctrl+t or run+cmd on windows), navigating to the directory where you want to store the code, and running `git clone git@github.com:staab/js-allonge.git`.
 - Send me an email with your github username so I can add you as a collaborator to the project.
-
-#### Connect to the server
-
-- Once you've given me you public key and I've entered it into the server, you should be able to open a terminal/putty window and enter `ssh allonge@` and be in. It should ask you if you want to allow the host - say yes.
-- Type `ls` to see what I've set up for you.
 
 #### Set up your development environment
 
 - Install Node ([Windows/mac](http://nodejs.org/download/), [linux](http://ask.xmodulo.com/install-node-js-linux.html))
-- Install a text editor if you haven't. I use [sublime text 3](http://www.sublimetext.com/3)
+- Install a text editor if you haven't. I use [sublime text 3](http://www.sublimetext.com/3). Other good options are laid out [here](http://www.sitepoint.com/sitepoint-smackdown-atom-vs-brackets-vs-light-table-vs-sublime-text/).
 - `cd` into your js-allonge directory. Test everything out by running `node test.js`. If "Hello World!" was printed to your console, you're in business!
 
 
 ### The course
 
-Over the next 7 weeks, we'll be building a javascript library or application. What we build is something we'll decide at the first meeting. Also, during the first 6 weeks, we'll be working through [Javascript Allonge](https://leanpub.com/javascript-allonge/read). We'll read a section, do some exercises, and then meet to talk about it. I'll probably come up with some [Project Euler](https://projecteuler.net/) problems to center our discussion of core concepts around. Here's the reading schedule:
+Over the next 7 weeks, we'll be building either a javascript library or application (or both!). What we build is something we'll decide on at the first meeting. Also, during the first 6 weeks, we'll be working through [Javascript Allonge](https://leanpub.com/javascript-allonge/read). We'll read a section, do some exercises, and then meet to talk about it. I'll probably come up with some extra exercises to center our discussion of core concepts around. Here's the reading schedule:
 
 - For October 9 - [Preface](https://leanpub.com/javascript-allonge/read#leanpub-auto-a-pull-of-the-lever-prefaces) and [Introduction](https://leanpub.com/javascript-allonge/read#leanpub-auto-prelude-values-and-expressions)
 - For October 16 - [Chapter 1](https://leanpub.com/javascript-allonge/read#functions) and [Chapter 3](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-basic-functions)
@@ -67,4 +60,13 @@ Over the next 7 weeks, we'll be building a javascript library or application. Wh
 - For November 13th - [Chapter 11](https://leanpub.com/javascript-allonge/read#redecorating) and [Chapter 12](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-for-new-ideas)
 - For November 20th, TBD
 
-We'll meet at 7-8:30 PM every Thursday night October 9th - November 20th. We'll be meeting at the Moscowork space on 3rd Street. Admission to the group is free, but you won't be admitted if you don't sign up before the second meeting. Check out the official page [here](https://moscowork.com/javascript-allonge/)
+We'll meet at 7-8:30 PM every Thursday night October 9th - November 20th. We'll be meeting at the MosCoWork space on 3rd Street. Admission to the group is free, but you won't be admitted if you don't sign up before the second meeting. Check out the official page [here](https://moscowork.com/javascript-allonge/).
+
+#### Participants
+
+Here's everyone who has confirmed with me that they'll be there. If you don't see your name here, and you think it should be, drop me an email!
+
+- Jon Feusi
+- Chris Walker
+- Austin Storm
+- Jon Burnett
