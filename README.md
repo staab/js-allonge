@@ -52,7 +52,10 @@ If you're on windows:
 
 Over the next 7 weeks, we'll be building either a javascript library or application (or both!). What we build is something we'll decide on at the first meeting. Also, during the first 6 weeks, we'll be working through [Javascript Allonge](https://leanpub.com/javascript-allonge/read). We'll read a section, do some exercises, and then meet to talk about it. I'll probably come up with some extra exercises to center our discussion of core concepts around. Here's the reading schedule:
 
-- For October 9 - [Preface](https://leanpub.com/javascript-allonge/read#leanpub-auto-a-pull-of-the-lever-prefaces) and [Introduction](https://leanpub.com/javascript-allonge/read#leanpub-auto-prelude-values-and-expressions)
+- For October 9:
+    - Javascript Allonge Reading - [Preface](https://leanpub.com/javascript-allonge/read#leanpub-auto-a-pull-of-the-lever-prefaces) and [Introduction](https://leanpub.com/javascript-allonge/read#leanpub-auto-prelude-values-and-expressions)
+    - [Discussion questions and extra reading](extra/prelude.md)
+
 - For October 16 - [Chapter 1](https://leanpub.com/javascript-allonge/read#functions) through [Chapter 3](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-basic-functions)
 - For October 23 -  [Chapter 4](https://leanpub.com/javascript-allonge/read#references) and [Chapter 5](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-rebinding-and-references)
 - For October 30 -  [Chapter 6](https://leanpub.com/javascript-allonge/read#mutable) and [Chapter 7](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-objects-mutations-and-state)
