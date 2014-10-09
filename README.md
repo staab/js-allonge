@@ -53,10 +53,10 @@ If you're on windows:
 Over the next 7 weeks, we'll be building either a javascript library or application (or both!). What we build is something we'll decide on at the first meeting. Also, during the first 6 weeks, we'll be working through [Javascript Allonge](https://leanpub.com/javascript-allonge/read). We'll read a section, do some exercises, and then meet to talk about it. I'll probably come up with some extra exercises to center our discussion of core concepts around. Here's the reading schedule:
 
 - For October 9 - [Preface](https://leanpub.com/javascript-allonge/read#leanpub-auto-a-pull-of-the-lever-prefaces) and [Introduction](https://leanpub.com/javascript-allonge/read#leanpub-auto-prelude-values-and-expressions)
-- For October 16 - [Chapter 1](https://leanpub.com/javascript-allonge/read#functions) and [Chapter 3](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-basic-functions)
+- For October 16 - [Chapter 1](https://leanpub.com/javascript-allonge/read#functions) through [Chapter 3](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-basic-functions)
 - For October 23 -  [Chapter 4](https://leanpub.com/javascript-allonge/read#references) and [Chapter 5](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-rebinding-and-references)
 - For October 30 -  [Chapter 6](https://leanpub.com/javascript-allonge/read#mutable) and [Chapter 7](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-objects-mutations-and-state)
-- For October 6 - [Chapter 8](https://leanpub.com/javascript-allonge/read#methods) and [Chapter 10](https://leanpub.com/javascript-allonge/read#processing)
+- For October 6 - [Chapter 8](https://leanpub.com/javascript-allonge/read#methods) through [Chapter 10](https://leanpub.com/javascript-allonge/read#processing)
 - For November 13th - [Chapter 11](https://leanpub.com/javascript-allonge/read#redecorating) and [Chapter 12](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-for-new-ideas)
 - For November 20th, TBD
 
@@ -70,3 +70,6 @@ Here's everyone who has confirmed with me that they'll be there. If you don't se
 - Chris Walker
 - Austin Storm
 - Jon Burnett
+- James Purdy
+- Rebekah Kim
+- Michael Hewitt
