@@ -1,13 +1,13 @@
 ### Discussion questions
 
 - What does "identity" mean in javascript?
-- What's another analogy for identity in javascript (coffee cups was the one used)
+- What's another analogy for identity in javascript (coffee cups was the one used)?
 - What are some differences between types that are identified by values and types identified by instance?
 
 
 ### Exercises
 
-No exercises this class, just some extra reading to get you all up to speed.
+No exercises this class, just some extra reading to get you all up to speed. Just skim the more technical stuff.
 
 - [Can your programming language do this?](http://www.joelonsoftware.com/items/2006/08/01.html)
 - Practical Javascript basics
