@@ -52,15 +52,15 @@ If you're on windows:
 
 Over the next 7 weeks, we'll be building either a javascript library or application (or both!). What we build is something we'll decide on at the first meeting. Also, during the first 6 weeks, we'll be working through [Javascript Allonge](https://leanpub.com/javascript-allonge/read). We'll read a section, do some exercises, and then meet to talk about it. I'll probably come up with some extra exercises to center our discussion of core concepts around. Here's the reading schedule:
 
-<a name="october_9">-</a> For October 9:
+- <a name="october_9">For October 9</a>:
     - Javascript Allonge Reading - [Preface](https://leanpub.com/javascript-allonge/read#leanpub-auto-a-pull-of-the-lever-prefaces) and [Introduction](https://leanpub.com/javascript-allonge/read#leanpub-auto-prelude-values-and-expressions)
     - [Discussion questions and extra reading](extra/prelude.md)
-<a name="october_16">-</a> For October 16 - [Chapter 1](https://leanpub.com/javascript-allonge/read#functions) through [Chapter 3](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-basic-functions)
-<a name="october_23">-</a> For October 23 -  [Chapter 4](https://leanpub.com/javascript-allonge/read#references) and [Chapter 5](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-rebinding-and-references)
-<a name="october_30">-</a> For October 30 -  [Chapter 6](https://leanpub.com/javascript-allonge/read#mutable) and [Chapter 7](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-objects-mutations-and-state)
-<a name="october_6">-</a> For October 6 - [Chapter 8](https://leanpub.com/javascript-allonge/read#methods) through [Chapter 10](https://leanpub.com/javascript-allonge/read#processing)
-<a name="november_13">-</a> For November 13 - [Chapter 11](https://leanpub.com/javascript-allonge/read#redecorating) and [Chapter 12](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-for-new-ideas)
-<a name="november_20">-</a> For November 20, TBD
+- <a name="october_16">For October 16</a> - [Chapter 1](https://leanpub.com/javascript-allonge/read#functions) through [Chapter 3](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-basic-functions)
+- <a name="october_23">For October 23</a> -  [Chapter 4](https://leanpub.com/javascript-allonge/read#references) and [Chapter 5](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-rebinding-and-references)
+- <a name="october_30">For October 30</a> -  [Chapter 6](https://leanpub.com/javascript-allonge/read#mutable) and [Chapter 7](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-objects-mutations-and-state)
+- <a name="october_6">For October 6</a> - [Chapter 8](https://leanpub.com/javascript-allonge/read#methods) through [Chapter 10](https://leanpub.com/javascript-allonge/read#processing)
+- <a name="november_13">For November 13</a> - [Chapter 11](https://leanpub.com/javascript-allonge/read#redecorating) and [Chapter 12](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-for-new-ideas)
+- <a name="november_20">For November 20</a>, TBD
 
 We'll meet at 7-8:30 PM every Thursday night October 9th - November 20th. We'll be meeting at the MosCoWork space on 3rd Street. Admission to the group is free, but you won't be admitted if you don't sign up before the second meeting. Check out the official page [here](https://moscowork.com/javascript-allonge/).
 
