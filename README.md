@@ -63,15 +63,3 @@ Over the next 7 weeks, we'll be building either a javascript library or applicat
 - <a name="november_20"> </a>For November 20, TBD
 
 We'll meet at 7-8:30 PM every Thursday night October 9th - November 20th. We'll be meeting at the MosCoWork space on 3rd Street. Admission to the group is free, but you won't be admitted if you don't sign up before the second meeting. Check out the official page [here](https://moscowork.com/javascript-allonge/).
-
-#### Participants
-
-Here's everyone who has confirmed with me that they'll be there. If you don't see your name here, and you think it should be, drop me an email!
-
-- John Feusi
-- Chris Walker
-- Austin Storm
-- Jon Burnett
-- James Purdy
-- Rebekah Kim
-- Michael Hewitt
