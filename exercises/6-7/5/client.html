@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test</title>
+    <script src="/socket.io/socket.io.js"></script>
+</head>
+<body>
+    <button id="clickage">Click me!</button>
+    <ul id="listage">
+        
+    </ul>
+    <script type="text/javascript">
+    var socket = io('http://localhost'),
+        button = document.getElementById('clickage'),
+        list = document.getElementById('listage');
+
+    socket.on('calculation', function(data){
+        var item = document.createElement('li'),
+            text = document.createTextNode(data.value);
+
+        item.appendChild(text);
+        list.appendChild(item);
+    });
+
+    button.addEventListener('click', function(evt){
+        var value = Math.random() * 10;
+        alert("Sending " + value + " to server for processing.")
+        socket.emit('calculate', {value: value});
+    });
+    </script>
+</body>
+</html>

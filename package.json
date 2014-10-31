@@ -1,0 +1,23 @@
+{
+  "name": "js-allonge",
+  "version": "0.0.0",
+  "description": "Project for a javascript class",
+  "main": "test.js",
+  "dependencies": {
+    "socket.io": "~1.2.0",
+    "underscore": "~1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/staab/js-allonge.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/staab/js-allonge/issues"
+  }
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test</title>
+</head>
+<body>
+    <button id="clickage">Click me!</button>
+    <ul id="listage">
+        
+    </ul>
+    <script type="text/javascript">
+    var button = document.getElementById('clickage'),
+        list = document.getElementById('listage');
+
+    button.addEventListener('click', function(evt){
+        var request = new XMLHttpRequest();
+        request.onload = function(response){
+            response = JSON.parse(response.target.response).message;
+            var item = document.createElement('li'),
+                text = document.createTextNode(response);
+
+            item.appendChild(text);
+            list.appendChild(item);
+        };
+        request.open('GET', '/whatever');
+        request.send();
+    });
+    </script>
+</body>
+</html>
