@@ -60,7 +60,7 @@ Over the next 7 weeks, we'll be building either a javascript library or applicat
     - [Discussion questions and extra reading](extra/1-3.md)
 - <a name="october_23"> </a>For October 23 -  [Chapter 4](https://leanpub.com/javascript-allonge/read#references) and [Chapter 5](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-rebinding-and-references)
 - <a name="october_30"> </a>For October 30 -  [Chapter 6](https://leanpub.com/javascript-allonge/read#mutable) and [Chapter 7](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-with-objects-mutations-and-state)
-- <a name="october_6"> </a>For October 6 - [Chapter 8](https://leanpub.com/javascript-allonge/read#methods) through [Chapter 10](https://leanpub.com/javascript-allonge/read#processing)
+- <a name="november_6"> </a>For November 6 - [Chapter 8](https://leanpub.com/javascript-allonge/read#methods) through [Chapter 10](https://leanpub.com/javascript-allonge/read#processing)
 - <a name="november_13"> </a>For November 13 - [Chapter 11](https://leanpub.com/javascript-allonge/read#redecorating) and [Chapter 12](https://leanpub.com/javascript-allonge/read#leanpub-auto-recipes-for-new-ideas)
 - <a name="november_20"> </a>For November 20, TBD
 
