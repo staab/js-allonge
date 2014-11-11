@@ -1,16 +1,8 @@
 var Car = (function (){
-    function init(){
-        console.log("I am a car.");
-        this.init();
-    }
-
     function Car(){
-        init.call(this);
-    };
-
-    Car.prototype.init = function init(){
         this.speed = 0;
     };
+
     Car.prototype.accelerate = function accelerate(value){
         var newSpeed = this.speed + value;
 
@@ -35,25 +27,13 @@ var Car = (function (){
 
 var Truck = (function(){
     function Truck(){
-        this.init();
-    };
-
-    // Assign car's dynamically inherited behavior without triggering its 
-    // private init method
-    Truck.prototype = (function (){
-        function CarProxy(){
-            this.constructor = Car.constructor;
-        };
-        CarProxy.prototype = Car.prototype;
-
-        return new CarProxy();
-    })();
-
-    Truck.prototype.init = function init(){
+        Car.prototype.constructor.call(this);
         this.bedFilled = 0;
         this.bedCapacity = 500;
-        Car.prototype.init.call(this);
     };
+
+    Truck.prototype = Car.prototype;
+
     Truck.prototype.fillBed = function fillBed(amount){
         var newAmount = this.bedFilled + amount;
         if(newAmount > this.bedCapacity){

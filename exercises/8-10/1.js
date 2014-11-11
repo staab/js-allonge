@@ -1,30 +1,26 @@
 
-var Car = (function(){
-    function Car(){
-        this.speed = 0;
-    };
+function Car(){
+    this.speed = 0;
+};
 
-    Car.prototype.accelerate = function accelerate(value){
-        var newSpeed = this.speed + value;
+Car.prototype.accelerate = function accelerate(value){
+    var newSpeed = this.speed + value;
 
-        if(newSpeed > this.getMaxSpeed()){
-            newSpeed = this.getMaxSpeed();
-        }
+    if(newSpeed > this.getMaxSpeed()){
+        newSpeed = this.getMaxSpeed();
+    }
 
-        this.speed = newSpeed;
-    };
-    Car.prototype.decelerate = function decelerate(value){
-        var newSpeed = this.speed - value;
-        
-        if(newSpeed < 0){
-            newSpeed = 0;
-        }
+    this.speed = newSpeed;
+};
+Car.prototype.decelerate = function decelerate(value){
+    var newSpeed = this.speed - value;
+    
+    if(newSpeed < 0){
+        newSpeed = 0;
+    }
 
-        this.speed = newSpeed;
-    };
-
-    return Car;
-})();
+    this.speed = newSpeed;
+};
 
 var car = new Car();
 car.getMaxSpeed = function getMaxSpeed(){

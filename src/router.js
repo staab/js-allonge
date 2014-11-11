@@ -1,9 +1,15 @@
 var utils = require('./utils.js'),
+    fs = require('fs'),
     _ = require('underscore');
 
 var routes = {
-    "/": function root (req){
-
+    "/": function root (req, done){
+        return {
+            headers: {
+                'Content-Type': 'text/html'
+            },
+            body: 
+        };
     }
 };
 

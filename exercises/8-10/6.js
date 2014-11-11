@@ -10,7 +10,6 @@ var Pipe = (function(){
             });
             return value;
         };
-        callable.__proto__ = Pipe.prototype;
 
         callable.obj = void 0;
         callable.functions = [];
@@ -40,7 +39,7 @@ var Pipe = (function(){
     return Pipe;
 })();
 
-var assert = require("../assert.js"),
+var assert = require("../assert.js");
 
 // Actual order:
 // ((((value - 2) + 10) + 2) * 2)
